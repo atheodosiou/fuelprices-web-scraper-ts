@@ -7,12 +7,19 @@ import { performance } from 'perf_hooks';
 
 export class App {
     async bootstrapApp() {
+        const startDt= performance.now();
+        
         console.log('App started...\n');
-        this.createLinksFile();
+        await this.createLinksFile();
+
+        const endDt = performance.now();
+        const duration = endDt-startDt;
+        console.log(`Done! Total time: ${duration}ms.\nProcess exit.`);
+        await process.exit(0);
     }
 
     private async createLinksFile(){
-        const startDt= performance.now();
+        
 
         let relationships: Connections;
         relationships = JSON.parse(JSON.stringify(data));
@@ -31,9 +38,5 @@ export class App {
         }).catch(error => {
             console.log('File was not created successfully!\n\n', error);
         });
-        const endDt = performance.now();
-        const duration = endDt-startDt;
-        console.log(`Done! Total time: ${duration}ms.\nProcess exit.`);
-        await process.exit(0);
     }
 }

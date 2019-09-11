@@ -23,13 +23,17 @@ const perf_hooks_1 = require("perf_hooks");
 class App {
     bootstrapApp() {
         return __awaiter(this, void 0, void 0, function* () {
+            const startDt = perf_hooks_1.performance.now();
             console.log('App started...\n');
-            this.createLinksFile();
+            yield this.createLinksFile();
+            const endDt = perf_hooks_1.performance.now();
+            const duration = endDt - startDt;
+            console.log(`Done! Total time: ${duration}ms.\nProcess exit.`);
+            yield process.exit(0);
         });
     }
     createLinksFile() {
         return __awaiter(this, void 0, void 0, function* () {
-            const startDt = perf_hooks_1.performance.now();
             let relationships;
             relationships = JSON.parse(JSON.stringify(data));
             const connections = relationships.connections;
@@ -44,10 +48,6 @@ class App {
             }).catch(error => {
                 console.log('File was not created successfully!\n\n', error);
             });
-            const endDt = perf_hooks_1.performance.now();
-            const duration = endDt - startDt;
-            console.log(`Done! Total time: ${duration}ms.\nProcess exit.`);
-            yield process.exit(0);
         });
     }
 }
