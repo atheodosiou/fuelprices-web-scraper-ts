@@ -2,9 +2,9 @@
   "name": "fuelprices-scraper-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
-    "start": "tsc && nodemon dist/main.js"
+    "start": "tsc && nodemon --watch dist/main.js"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,5169 @@
+{
+  "links": [
+    {
+      "countyId": "01000000",
+      "municipalityId": "01020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01020000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01030000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01040000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01050000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01060000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01070000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01080000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01090000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01100000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01110000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01120000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01130000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01010000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01140000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01150000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01160000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01170000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01180000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01190000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01200000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01210000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01220000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01230000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01240000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01250000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01260000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01260000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01270000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01270000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01280000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01280000"
+    },
+    {
+      "countyId": "01000000",
+      "municipalityId": "01290000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=01000000&return_to=CheckPrices&dimos=01290000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03020000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03030000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03040000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03050000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03060000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03070000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03080000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03090000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03100000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03110000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03120000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03010000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03130000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03140000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03150000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03160000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03170000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03180000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03610000"
+    },
+    {
+      "countyId": "03000000",
+      "municipalityId": "03620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=03000000&return_to=CheckPrices&dimos=03620000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04020000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04030000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04040000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04050000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04060000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04070000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04080000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04090000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04100000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04110000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04120000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04130000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04140000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04150000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04160000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04170000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04180000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04190000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04200000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04210000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04220000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04230000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04240000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04010000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04250000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04610000"
+    },
+    {
+      "countyId": "04000000",
+      "municipalityId": "04620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=04000000&return_to=CheckPrices&dimos=04620000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05020000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05030000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05040000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05050000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05060000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05010000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05070000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05080000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05090000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05100000"
+    },
+    {
+      "countyId": "05000000",
+      "municipalityId": "05110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=05000000&return_to=CheckPrices&dimos=05110000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06020000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06030000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06040000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06050000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06060000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06070000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06080000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06090000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06100000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06110000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06120000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06010000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06130000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06140000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06150000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06160000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06170000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06180000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06190000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06200000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06210000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06220000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06230000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06610000"
+    },
+    {
+      "countyId": "06000000",
+      "municipalityId": "06620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=06000000&return_to=CheckPrices&dimos=06620000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07010000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07020000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07030000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07040000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07050000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07060000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07070000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07080000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07090000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07100000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07110000"
+    },
+    {
+      "countyId": "07000000",
+      "municipalityId": "07120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=07000000&return_to=CheckPrices&dimos=07120000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11020000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11030000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11040000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11050000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11060000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11070000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11080000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11090000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11100000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11110000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11120000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11010000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11130000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11140000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11610000"
+    },
+    {
+      "countyId": "11000000",
+      "municipalityId": "11620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=11000000&return_to=CheckPrices&dimos=11620000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12020000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12030000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12040000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12050000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12060000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12070000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12080000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12090000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12100000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12110000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12120000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12130000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12140000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12150000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12160000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12170000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12180000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12190000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12010000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12200000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12210000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12220000"
+    },
+    {
+      "countyId": "12000000",
+      "municipalityId": "12610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=12000000&return_to=CheckPrices&dimos=12610000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13020000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13030000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13040000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13050000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13060000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13070000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13080000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13090000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13100000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13110000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13120000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13130000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13140000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13150000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13160000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13010000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13170000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13180000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13190000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13200000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13210000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13610000"
+    },
+    {
+      "countyId": "13000000",
+      "municipalityId": "13620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=13000000&return_to=CheckPrices&dimos=13620000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14020000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14030000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14040000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14050000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14060000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14070000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14080000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14090000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14100000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14110000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14120000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14130000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14140000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14150000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14160000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14170000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14010000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14180000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14190000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14200000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14210000"
+    },
+    {
+      "countyId": "14000000",
+      "municipalityId": "14220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=14000000&return_to=CheckPrices&dimos=14220000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15020000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15030000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15040000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15050000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15060000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15010000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15070000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15080000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15090000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15100000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15110000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15120000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15130000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15140000"
+    },
+    {
+      "countyId": "15000000",
+      "municipalityId": "15150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=15000000&return_to=CheckPrices&dimos=15150000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16020000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16030000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16040000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16050000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16060000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16070000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16080000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16090000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16100000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16110000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16120000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16130000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16140000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16150000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16160000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16170000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16180000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16190000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16010000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16200000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16610000"
+    },
+    {
+      "countyId": "16000000",
+      "municipalityId": "16620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=16000000&return_to=CheckPrices&dimos=16620000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17020000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17030000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17040000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17050000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17060000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17070000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17080000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17090000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17100000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17110000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17120000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17130000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17140000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17150000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17160000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17010000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17170000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17180000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17190000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17200000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17210000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17220000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17230000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17240000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17250000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17260000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17260000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17270000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17270000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17280000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17280000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17290000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17290000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17610000"
+    },
+    {
+      "countyId": "17000000",
+      "municipalityId": "17620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=17000000&return_to=CheckPrices&dimos=17620000"
+    },
+    {
+      "countyId": "21000000",
+      "municipalityId": "21020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=21000000&return_to=CheckPrices&dimos=21020000"
+    },
+    {
+      "countyId": "21000000",
+      "municipalityId": "21030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=21000000&return_to=CheckPrices&dimos=21030000"
+    },
+    {
+      "countyId": "21000000",
+      "municipalityId": "21040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=21000000&return_to=CheckPrices&dimos=21040000"
+    },
+    {
+      "countyId": "21000000",
+      "municipalityId": "21050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=21000000&return_to=CheckPrices&dimos=21050000"
+    },
+    {
+      "countyId": "21000000",
+      "municipalityId": "21010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=21000000&return_to=CheckPrices&dimos=21010000"
+    },
+    {
+      "countyId": "21000000",
+      "municipalityId": "21060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=21000000&return_to=CheckPrices&dimos=21060000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22020000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22030000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22040000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22050000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22060000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22010000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22070000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22080000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22090000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22100000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22110000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22120000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22130000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22610000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22620000"
+    },
+    {
+      "countyId": "22000000",
+      "municipalityId": "22630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=22000000&return_to=CheckPrices&dimos=22630000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23010000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23020000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23030000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23040000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23050000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23060000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23070000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23080000"
+    },
+    {
+      "countyId": "23000000",
+      "municipalityId": "23610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=23000000&return_to=CheckPrices&dimos=23610000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24020000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24030000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24040000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24010000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24050000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24060000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24610000"
+    },
+    {
+      "countyId": "24000000",
+      "municipalityId": "24620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=24000000&return_to=CheckPrices&dimos=24620000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31020000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31030000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31040000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31050000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31010000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31060000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31070000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31080000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31090000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31100000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31110000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31120000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31130000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31610000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31620000"
+    },
+    {
+      "countyId": "31000000",
+      "municipalityId": "31630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=31000000&return_to=CheckPrices&dimos=31630000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32020000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32010000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32030000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32040000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32050000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32060000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32070000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32080000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32610000"
+    },
+    {
+      "countyId": "32000000",
+      "municipalityId": "32620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=32000000&return_to=CheckPrices&dimos=32620000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33020000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33030000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33040000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33050000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33060000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33070000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33080000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33090000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33100000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33110000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33120000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33130000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33010000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33140000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33150000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33160000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33170000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33180000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33190000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33200000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33210000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33220000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33230000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33240000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33250000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33260000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33260000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33270000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33270000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33280000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33280000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33610000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33620000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33630000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33640000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33650000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33650000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33660000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33660000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33670000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33670000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33680000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33680000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33690000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33690000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33700000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33700000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33710000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33710000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33720000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33720000"
+    },
+    {
+      "countyId": "33000000",
+      "municipalityId": "33730000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=33000000&return_to=CheckPrices&dimos=33730000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34020000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34030000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34040000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34050000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34060000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34010000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34070000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34080000"
+    },
+    {
+      "countyId": "34000000",
+      "municipalityId": "34610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=34000000&return_to=CheckPrices&dimos=34610000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41020000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41030000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41040000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41050000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41060000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41070000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41080000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41010000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41090000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41100000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41110000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41120000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41130000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41140000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41150000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41160000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41170000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41180000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41190000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41200000"
+    },
+    {
+      "countyId": "41000000",
+      "municipalityId": "41610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=41000000&return_to=CheckPrices&dimos=41610000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42020000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42030000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42040000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42050000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42060000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42070000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42080000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42090000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42100000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42110000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42120000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42130000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42140000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42150000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42010000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42160000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42170000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42180000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42190000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42200000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42210000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42220000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42230000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42240000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42250000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42260000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42260000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42270000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42270000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42280000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42280000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42610000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42620000"
+    },
+    {
+      "countyId": "42000000",
+      "municipalityId": "42630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=42000000&return_to=CheckPrices&dimos=42630000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43020000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43030000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43040000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43050000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43060000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43070000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43080000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43010000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43090000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43100000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43110000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43120000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43130000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43140000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43150000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43160000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43170000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43180000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43190000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43200000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43210000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43220000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43610000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43620000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43630000"
+    },
+    {
+      "countyId": "43000000",
+      "municipalityId": "43640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=43000000&return_to=CheckPrices&dimos=43640000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44020000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44030000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44040000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44050000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44060000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44070000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44080000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44090000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44100000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44110000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44120000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44130000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44140000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44150000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44160000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44170000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44180000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44190000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44010000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44200000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44210000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44220000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44230000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44610000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44620000"
+    },
+    {
+      "countyId": "44000000",
+      "municipalityId": "44630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=44000000&return_to=CheckPrices&dimos=44630000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51020000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51030000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51010000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51040000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51050000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51060000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51070000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51080000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51610000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51620000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51630000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51640000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51650000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51650000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51660000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51660000"
+    },
+    {
+      "countyId": "51000000",
+      "municipalityId": "51670000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=51000000&return_to=CheckPrices&dimos=51670000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52020000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52010000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52030000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52040000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52050000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52060000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52070000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52080000"
+    },
+    {
+      "countyId": "52000000",
+      "municipalityId": "52610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=52000000&return_to=CheckPrices&dimos=52610000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53020000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53030000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53040000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53050000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53060000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53010000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53070000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53080000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53090000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53100000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53110000"
+    },
+    {
+      "countyId": "53000000",
+      "municipalityId": "53120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=53000000&return_to=CheckPrices&dimos=53120000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54020000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54030000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54040000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54050000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54060000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54070000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54080000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54090000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54100000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54110000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54120000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54130000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54140000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54150000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54160000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54170000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54180000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54010000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54190000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54200000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54210000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54220000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54230000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54240000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54250000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54260000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54260000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54270000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54270000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54280000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54280000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54290000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54290000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54300000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54300000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54310000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54310000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54320000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54320000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54330000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54330000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54340000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54340000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54350000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54350000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54360000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54360000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54370000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54370000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54380000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54380000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54390000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54390000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54400000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54400000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54410000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54410000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54420000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54420000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54430000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54430000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54610000"
+    },
+    {
+      "countyId": "54000000",
+      "municipalityId": "54620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=54000000&return_to=CheckPrices&dimos=54620000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55020000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55030000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55040000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55010000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55050000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55060000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55070000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55080000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55090000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55100000"
+    },
+    {
+      "countyId": "55000000",
+      "municipalityId": "55110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=55000000&return_to=CheckPrices&dimos=55110000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56020000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56030000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56040000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56050000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56060000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56070000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56010000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56080000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56090000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56100000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56110000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56120000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56610000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56620000"
+    },
+    {
+      "countyId": "56000000",
+      "municipalityId": "56630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=56000000&return_to=CheckPrices&dimos=56630000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57020000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57030000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57040000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57050000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57060000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57010000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57070000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57080000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57090000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57100000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57110000"
+    },
+    {
+      "countyId": "57000000",
+      "municipalityId": "57610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=57000000&return_to=CheckPrices&dimos=57610000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58020000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58030000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58040000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58050000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58060000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58070000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58080000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58090000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58100000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58010000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58110000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58120000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58130000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58140000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58150000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58160000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58610000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58620000"
+    },
+    {
+      "countyId": "58000000",
+      "municipalityId": "58630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=58000000&return_to=CheckPrices&dimos=58630000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59020000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59030000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59040000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59010000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59050000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59060000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59070000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59080000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59090000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59100000"
+    },
+    {
+      "countyId": "59000000",
+      "municipalityId": "59110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=59000000&return_to=CheckPrices&dimos=59110000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61020000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61030000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61040000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61050000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61010000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61060000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61070000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61080000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61090000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61100000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61110000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61120000"
+    },
+    {
+      "countyId": "61000000",
+      "municipalityId": "61130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=61000000&return_to=CheckPrices&dimos=61130000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62020000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62030000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62040000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62050000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62060000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62070000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62080000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62090000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62100000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62110000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62120000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62130000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62140000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62150000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62160000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62010000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62170000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62180000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62190000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62210000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62200000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62220000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62610000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62620000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62630000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62640000"
+    },
+    {
+      "countyId": "62000000",
+      "municipalityId": "62650000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=62000000&return_to=CheckPrices&dimos=62650000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63020000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63030000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63040000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63050000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63060000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63070000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63080000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63010000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63610000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63620000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63630000"
+    },
+    {
+      "countyId": "63000000",
+      "municipalityId": "63640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=63000000&return_to=CheckPrices&dimos=63640000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64020000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64030000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64040000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64050000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64060000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64070000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64080000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64090000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64100000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64010000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64110000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64120000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64130000"
+    },
+    {
+      "countyId": "64000000",
+      "municipalityId": "64140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=64000000&return_to=CheckPrices&dimos=64140000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71010000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71020000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71030000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71040000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71050000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71060000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71070000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71080000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71090000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71100000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71110000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71120000"
+    },
+    {
+      "countyId": "71000000",
+      "municipalityId": "71130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=71000000&return_to=CheckPrices&dimos=71130000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72020000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72030000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72040000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72010000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72050000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72060000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72610000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72620000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72630000"
+    },
+    {
+      "countyId": "72000000",
+      "municipalityId": "72640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=72000000&return_to=CheckPrices&dimos=72640000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73020000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73030000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73040000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73010000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73050000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73060000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73070000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73080000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73090000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73610000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73620000"
+    },
+    {
+      "countyId": "73000000",
+      "municipalityId": "73630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=73000000&return_to=CheckPrices&dimos=73630000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81020000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81030000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81040000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81050000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81060000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81070000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81080000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81090000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81100000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81110000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81120000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81130000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81140000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81150000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81160000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81170000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81180000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81190000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81200000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81210000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81220000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81010000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81230000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81240000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81250000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81610000"
+    },
+    {
+      "countyId": "81000000",
+      "municipalityId": "81620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=81000000&return_to=CheckPrices&dimos=81620000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82020000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82030000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82040000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82050000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82060000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82010000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82070000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82080000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82090000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82100000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82110000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82120000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82130000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82140000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82150000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82160000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82170000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82180000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82190000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82200000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82610000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82620000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82630000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82640000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82650000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82650000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82660000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82660000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82670000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82670000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82680000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82680000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82690000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82690000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82700000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82700000"
+    },
+    {
+      "countyId": "82000000",
+      "municipalityId": "82710000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=82000000&return_to=CheckPrices&dimos=82710000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83020000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83030000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83040000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83050000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83060000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83070000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83080000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83090000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83100000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83110000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83120000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83130000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83010000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83140000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83150000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83160000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83170000"
+    },
+    {
+      "countyId": "83000000",
+      "municipalityId": "83610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=83000000&return_to=CheckPrices&dimos=83610000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84020000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84010000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84030000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84040000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84050000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84060000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84070000"
+    },
+    {
+      "countyId": "84000000",
+      "municipalityId": "84080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=84000000&return_to=CheckPrices&dimos=84080000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85020000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85030000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85040000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85050000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85060000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85070000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85080000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85090000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85010000"
+    },
+    {
+      "countyId": "85000000",
+      "municipalityId": "85100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=85000000&return_to=CheckPrices&dimos=85100000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91020000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91030000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91040000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91050000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91060000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91070000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91080000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91090000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91100000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91110000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91120000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91010000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91130000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91140000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91150000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91160000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91170000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91180000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91190000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91200000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91210000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91220000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91230000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91240000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91250000"
+    },
+    {
+      "countyId": "91000000",
+      "municipalityId": "91260000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=91000000&return_to=CheckPrices&dimos=91260000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92010000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92020000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92030000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92040000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92050000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92060000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92070000"
+    },
+    {
+      "countyId": "92000000",
+      "municipalityId": "92080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=92000000&return_to=CheckPrices&dimos=92080000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93020000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93030000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93040000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93050000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93060000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93070000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93080000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93090000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93010000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93100000"
+    },
+    {
+      "countyId": "93000000",
+      "municipalityId": "93110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=93000000&return_to=CheckPrices&dimos=93110000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94020000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94030000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94040000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94050000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94060000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94070000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94080000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94090000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94100000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94110000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94120000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94130000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94140000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94150000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94160000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94170000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94180000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94190000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94200000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94210000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94220000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94230000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94010000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94610000"
+    },
+    {
+      "countyId": "94000000",
+      "municipalityId": "94620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=94000000&return_to=CheckPrices&dimos=94620000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1020000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1030000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1040000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1050000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1010000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1060000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1070000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1080000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1090000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1100000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1110000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1120000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1130000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1140000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1150000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1160000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1170000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1180000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1190000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1200000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1210000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1210000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1220000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1220000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1230000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1230000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1240000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1240000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1250000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1250000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1260000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1260000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1270000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1270000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1280000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1280000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1290000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1290000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1300000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1300000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1310000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1310000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1320000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1320000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1330000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1330000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1340000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1340000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1350000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1350000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1360000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1360000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1370000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1370000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1380000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1380000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1390000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1390000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1400000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1400000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1410000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1410000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1420000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1420000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1430000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1430000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1440000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1440000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1450000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1450000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1610000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1620000"
+    },
+    {
+      "countyId": "A1000000",
+      "municipalityId": "A1630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A1000000&return_to=CheckPrices&dimos=A1630000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2020000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2030000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2040000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2050000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2060000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2070000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2080000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2090000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2100000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2110000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2120000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2130000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2140000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2150000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2160000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2170000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2170000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2180000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2180000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2010000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2190000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2190000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2200000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2200000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2610000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2620000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2630000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2630000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2640000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2640000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2650000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2650000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2660000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2660000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2670000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2670000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2680000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2680000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2690000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2690000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2700000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2700000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2710000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2710000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2720000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2720000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2730000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2730000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2740000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2740000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2750000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2750000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2760000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2760000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2770000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2770000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2780000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2780000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2790000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2790000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2800000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2800000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2810000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2810000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2820000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2820000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2830000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2830000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2840000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2840000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2850000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2850000"
+    },
+    {
+      "countyId": "A2000000",
+      "municipalityId": "A2860000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A2000000&return_to=CheckPrices&dimos=A2860000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3020000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3030000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3040000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3010000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3050000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3060000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3070000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3080000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3090000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3100000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3610000"
+    },
+    {
+      "countyId": "A3000000",
+      "municipalityId": "A3620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A3000000&return_to=CheckPrices&dimos=A3620000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4020000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4020000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4030000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4030000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4040000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4040000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4050000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4050000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4060000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4060000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4070000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4070000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4080000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4080000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4090000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4090000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4100000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4100000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4010000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4010000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4110000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4110000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4120000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4120000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4130000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4130000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4140000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4140000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4150000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4150000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4160000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4160000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4610000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4610000"
+    },
+    {
+      "countyId": "A4000000",
+      "municipalityId": "A4620000",
+      "url": "http://www.fuelprices.gr/GetGeography?nomos=A4000000&return_to=CheckPrices&dimos=A4620000"
+    }
+  ]
+}

@@ -2,9 +2,12 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const ddLink_model_1 = require("../models/ddLink.model");
 class MunicipalDistrictLink {
+    /**
+     * Creates links for gettig all municipal districs of a municipality for a given county!
+     * @param connections Array of type 'Connection'
+     */
     generateLinks(connections) {
         let links = [];
-        //Create municipal districts urls
         connections.forEach(c => {
             c.municipalities.forEach(m => {
                 let dd = new ddLink_model_1.DdLink();
