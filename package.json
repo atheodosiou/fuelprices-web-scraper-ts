@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/main.js",
   "scripts": {
-    "start": "tsc && nodemon --watch dist/main.js"
+    "dev": "nodemon main.ts"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +16,7 @@
     "typescript": "^3.6.3"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "ts-node": "^8.3.0"
   }
 }
