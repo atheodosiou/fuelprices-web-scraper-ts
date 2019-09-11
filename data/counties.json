@@ -1,0 +1,218 @@
+[
+    {
+        "countyName": "ΝΟΜΑΡΧΙΑ ΑΘΗΝΩΝ",
+        "countyId": "A1000000"
+    },
+    {
+        "countyName": "ΝΟΜΑΡΧΙΑ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+        "countyId": "A2000000"
+    },
+    {
+        "countyName": "ΝΟΜΑΡΧΙΑ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+        "countyId": "A3000000"
+    },
+    {
+        "countyName": "ΝΟΜΑΡΧΙΑ ΠΕΙΡΑΙΩΣ",
+        "countyId": "A4000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΑΙΤΩΛΙΑΣ ΚΑΙ ΑΚΑΡΝΑΝΙΑΣ",
+        "countyId": "01000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΑΡΓΟΛΙΔΟΣ",
+        "countyId": "11000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΑΡΚΑΔΙΑΣ",
+        "countyId": "12000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΑΡΤΗΣ",
+        "countyId": "31000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΑΧΑΪΑΣ",
+        "countyId": "13000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΒΟΙΩΤΙΑΣ",
+        "countyId": "03000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΓΡΕΒΕΝΩΝ",
+        "countyId": "51000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΔΡΑΜΑΣ",
+        "countyId": "52000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΔΩΔΕΚΑΝΗΣΟΥ",
+        "countyId": "81000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΕΒΡΟΥ",
+        "countyId": "71000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΕΥΒΟΙΑΣ",
+        "countyId": "04000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΕΥΡΥΤΑΝΙΑΣ",
+        "countyId": "05000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΖΑΚΥΝΘΟΥ",
+        "countyId": "21000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΗΛΕΙΑΣ",
+        "countyId": "14000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΗΜΑΘΙΑΣ",
+        "countyId": "53000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+        "countyId": "91000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΘΕΣΠΡΩΤΙΑΣ",
+        "countyId": "32000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+        "countyId": "54000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΙΩΑΝΝΙΝΩΝ",
+        "countyId": "33000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΑΒΑΛΑΣ",
+        "countyId": "55000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΑΡΔΙΤΣΗΣ",
+        "countyId": "41000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+        "countyId": "56000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΕΡΚΥΡΑΣ",
+        "countyId": "22000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΕΦΑΛΛΗΝΙΑΣ",
+        "countyId": "23000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΙΛΚΙΣ",
+        "countyId": "57000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΟΖΑΝΗΣ",
+        "countyId": "58000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΟΡΙΝΘΙΑΣ",
+        "countyId": "15000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΚΥΚΛΑΔΩΝ",
+        "countyId": "82000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΛΑΚΩΝΙΑΣ",
+        "countyId": "16000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΛΑΡΙΣΗΣ",
+        "countyId": "42000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΛΑΣΙΘΙΟΥ",
+        "countyId": "92000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΛΕΣΒΟΥ",
+        "countyId": "83000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΛΕΥΚΑΔΟΣ",
+        "countyId": "24000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΜΑΓΝΗΣΙΑΣ",
+        "countyId": "43000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΜΕΣΣΗΝΙΑΣ",
+        "countyId": "17000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΞΑΝΘΗΣ",
+        "countyId": "72000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΠΕΛΛΗΣ",
+        "countyId": "59000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΠΙΕΡΙΑΣ",
+        "countyId": "61000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΠΡΕΒΕΖΗΣ",
+        "countyId": "34000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΡΕΘΥΜΝΗΣ",
+        "countyId": "93000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΡΟΔΟΠΗΣ",
+        "countyId": "73000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΣΑΜΟΥ",
+        "countyId": "84000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΣΕΡΡΩΝ",
+        "countyId": "62000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΤΡΙΚΑΛΩΝ",
+        "countyId": "44000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΦΘΙΩΤΙΔΟΣ",
+        "countyId": "06000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΦΛΩΡΙΝΗΣ",
+        "countyId": "63000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΦΩΚΙΔΟΣ",
+        "countyId": "07000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΧΑΛΚΙΔΙΚΗΣ",
+        "countyId": "64000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΧΑΝΙΩΝ",
+        "countyId": "94000000"
+    },
+    {
+        "countyName": "ΝΟΜΟΣ ΧΙΟΥ",
+        "countyId": "85000000"
+    }
+]
